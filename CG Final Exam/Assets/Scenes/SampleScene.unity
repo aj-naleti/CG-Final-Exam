@@ -1338,7 +1338,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_pixelateMat: {fileID: 2100000, guid: 5570dfe0de4827042a708a6af7859269, type: 2}
-  pixelDensity: 640
+  pixelDensity: 320
 --- !u!114 &963194232
 MonoBehaviour:
   m_ObjectHideFlags: 0
